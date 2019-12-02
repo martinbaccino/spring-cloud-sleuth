@@ -1,7 +1,7 @@
-# Spring Cloud Sleuth with Zipkins
+# Spring Cloud Sleuth with Zipkin
 Spring Cloud Sleuth is a distributed tracing framework for a microservice architecture in the Spring ecosystem.
 
-Zipkins is a distributed tracing system usually used to troubleshoot latency problems in service architectures.
+Zipkin is a distributed tracing system usually used to troubleshoot latency problems in service architectures.
 
 ## Example modules
 
@@ -37,7 +37,7 @@ Zipkins is a distributed tracing system usually used to troubleshoot latency pro
 `spring.application.name=customer-service`
 
 
-## How to integrate Zipkins in your project
+## How to integrate Zipkin in your project
 
 - Add the dependency
 
